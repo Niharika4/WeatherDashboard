@@ -7,6 +7,7 @@ Step 5: Display Weather Information: Once you have the weather data, update your
 Step 6: Implement Search Functionality: Allow users to input a city name and fetch weather information for that city.
 Step 7: Design and Styling: Design an appealing and responsive layout for your dashboard using CSS or a CSS framework like Bootstrap or Material-UI.
 Step 8: Responsive Design: Ensure your dashboard looks good and works well on both desktop and mobile devices by utilizing responsive design principles.
+
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
