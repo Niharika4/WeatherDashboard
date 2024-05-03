@@ -1,11 +1,19 @@
 Follow the instruction given below to run this project:
+
 Step 1: Set Up Your React Environment: Make sure you have Node.js and npm installed on your system. Then, create a new React project using Create React App.
+
 Step 2: Install Necessary Packages: You'll need packages like Axios for making API requests and any additional packages for styling or UI components you choose to use.
+
 Step 3: Create Components: Break down your application into reusable components. You might have components for the search bar, weather display, error messages, etc.
+
 Step 4: Fetch Weather Data: Utilize a weather API like OpenWeatherMap to fetch weather data based on the city name entered by the user. You'll need to sign up for an API key.
+
 Step 5: Display Weather Information: Once you have the weather data, update your UI to display the relevant information like temperature, humidity, and wind speed.
+
 Step 6: Implement Search Functionality: Allow users to input a city name and fetch weather information for that city.
+
 Step 7: Design and Styling: Design an appealing and responsive layout for your dashboard using CSS or a CSS framework like Bootstrap or Material-UI.
+
 Step 8: Responsive Design: Ensure your dashboard looks good and works well on both desktop and mobile devices by utilizing responsive design principles.
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
